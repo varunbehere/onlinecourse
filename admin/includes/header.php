@@ -13,7 +13,7 @@ error_reporting(0);
                 </button>
                  <a class="navbar-brand" href="#" style="color:#fff; font-size:24px;4px; line-height:24px; ">
 
-                   Online Course Registration
+                   Course Registration Portal
                 </a>
 
             </div>

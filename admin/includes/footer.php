@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    &copy; <?php echo date('Y');?> Online Course Registration | By : <a href="http://www.phpgurukul.com/" target="_blank">PHPGURUKUL</a>
+                    Course Registration Portal <br>Submitted as Mini Project By- Varun Behere & Aniket Mogal</a>
                 </div>
 
             </div>
