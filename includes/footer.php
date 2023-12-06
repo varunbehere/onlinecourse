@@ -4,7 +4,6 @@
                 <div class="col-md-12">
                     Course Registration Portal<br> Submitted as Mini Project By- Varun Behere & Aniket Mogal
                 </div>
-
             </div>
         </div>
     </footer>
